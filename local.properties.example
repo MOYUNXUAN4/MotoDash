@@ -1,0 +1,6 @@
+## Location of the Android SDK
+sdk.dir=C\:\\Users\\YOUR_USER\\AppData\\Local\\Android\\Sdk
+
+## Spotify Developer Application Client ID
+## Obtain from: https://developer.spotify.com/dashboard
+SPOTIFY_CLIENT_ID=your_spotify_client_id_here
