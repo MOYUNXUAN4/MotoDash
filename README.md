@@ -127,7 +127,7 @@
 
 1. 克隆代码仓库：
    ```bash
-   git clone https://github.com/your-username/MotoDash.git
+   git clone https://github.com/MOYUNXUAN4/MotoDash.git
    cd MotoDash
    ```
 
